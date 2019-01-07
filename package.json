@@ -1,0 +1,24 @@
+{
+  "name": "ngflowgrid",
+  "version": "1.0.1",
+  "description": "pinterest like grid layout for angularjs without jquery",
+  "main": "src/ngFlowGrid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeAffe/ngFlowGrid.git"
+  },
+  "keywords": [
+    "grid",
+    "layout",
+    "angular"
+  ],
+  "author": "eisneim <eisneim1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeAffe/ngFlowGrid/issues"
+  },
+  "homepage": "https://github.com/CodeAffe/ngFlowGrid#readme"
+}
